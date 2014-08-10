@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/talkingflower/!svn/ver/1711/IOS_TKF/branches/old_version/talkingflower1_3_0/TalkingFlower/Classes/sysInterfaceBridge/Widget/ASIHTTPRequest/Classes/S3
+END
+ASIS3BucketRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/talkingflower/!svn/ver/1711/IOS_TKF/branches/old_version/talkingflower1_3_0/TalkingFlower/Classes/sysInterfaceBridge/Widget/ASIHTTPRequest/Classes/S3/ASIS3BucketRequest.h
+END
+ASIS3Request.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/talkingflower/!svn/ver/1711/IOS_TKF/branches/old_version/talkingflower1_3_0/TalkingFlower/Classes/sysInterfaceBridge/Widget/ASIHTTPRequest/Classes/S3/ASIS3Request.h
+END
+ASIS3BucketObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/talkingflower/!svn/ver/1711/IOS_TKF/branches/old_version/talkingflower1_3_0/TalkingFlower/Classes/sysInterfaceBridge/Widget/ASIHTTPRequest/Classes/S3/ASIS3BucketObject.m
+END
+ASIS3ServiceRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/talkingflower/!svn/ver/1711/IOS_TKF/branches/old_version/talkingflower1_3_0/TalkingFlower/Classes/sysInterfaceBridge/Widget/ASIHTTPRequest/Classes/S3/ASIS3ServiceRequest.h
+END
+ASIS3BucketRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/talkingflower/!svn/ver/1711/IOS_TKF/branches/old_version/talkingflower1_3_0/TalkingFlower/Classes/sysInterfaceBridge/Widget/ASIHTTPRequest/Classes/S3/ASIS3BucketRequest.m
+END
+ASINSXMLParserCompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/talkingflower/!svn/ver/1711/IOS_TKF/branches/old_version/talkingflower1_3_0/TalkingFlower/Classes/sysInterfaceBridge/Widget/ASIHTTPRequest/Classes/S3/ASINSXMLParserCompat.h
+END
+ASIS3Bucket.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/talkingflower/!svn/ver/1711/IOS_TKF/branches/old_version/talkingflower1_3_0/TalkingFlower/Classes/sysInterfaceBridge/Widget/ASIHTTPRequest/Classes/S3/ASIS3Bucket.h
+END
+ASIS3Request.m
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/talkingflower/!svn/ver/1711/IOS_TKF/branches/old_version/talkingflower1_3_0/TalkingFlower/Classes/sysInterfaceBridge/Widget/ASIHTTPRequest/Classes/S3/ASIS3Request.m
+END
+ASIS3ServiceRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/talkingflower/!svn/ver/1711/IOS_TKF/branches/old_version/talkingflower1_3_0/TalkingFlower/Classes/sysInterfaceBridge/Widget/ASIHTTPRequest/Classes/S3/ASIS3ServiceRequest.m
+END
+ASIS3ObjectRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/talkingflower/!svn/ver/1711/IOS_TKF/branches/old_version/talkingflower1_3_0/TalkingFlower/Classes/sysInterfaceBridge/Widget/ASIHTTPRequest/Classes/S3/ASIS3ObjectRequest.h
+END
+ASIS3Bucket.m
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/talkingflower/!svn/ver/1711/IOS_TKF/branches/old_version/talkingflower1_3_0/TalkingFlower/Classes/sysInterfaceBridge/Widget/ASIHTTPRequest/Classes/S3/ASIS3Bucket.m
+END
+ASIS3BucketObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/talkingflower/!svn/ver/1711/IOS_TKF/branches/old_version/talkingflower1_3_0/TalkingFlower/Classes/sysInterfaceBridge/Widget/ASIHTTPRequest/Classes/S3/ASIS3BucketObject.h
+END
+ASIS3ObjectRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/talkingflower/!svn/ver/1711/IOS_TKF/branches/old_version/talkingflower1_3_0/TalkingFlower/Classes/sysInterfaceBridge/Widget/ASIHTTPRequest/Classes/S3/ASIS3ObjectRequest.m
+END
