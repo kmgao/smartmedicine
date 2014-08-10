@@ -103,6 +103,10 @@
 
 -(IBAction)loginBntClick:(id)sender
 {
+    MainViewController *mainVC = [[MainViewController alloc] init];
+    [self.navigationController pushViewController:mainVC animated:YES];
+    return;
+    
     NSString *userNameStr = [self.userName text];
     NSString *passwordStr = [self.password text];
     

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C9FDC1E7-BAE8-4411-9DD1-E05B6076D261</string>
+	<key>IDESourceControlProjectName</key>
+	<string>smartmedicine</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FE9E6AD2-71F7-4CC5-BD81-4A9A20B90A18</key>
+		<string>https://github.com/kmgao/smartmedicine.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>smartmedicine.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FE9E6AD2-71F7-4CC5-BD81-4A9A20B90A18</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kmgao/smartmedicine.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FE9E6AD2-71F7-4CC5-BD81-4A9A20B90A18</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FE9E6AD2-71F7-4CC5-BD81-4A9A20B90A18</string>
+			<key>IDESourceControlWCCName</key>
+			<string>smartmedicine</string>
+		</dict>
+	</array>
+</dict>
+</plist>
